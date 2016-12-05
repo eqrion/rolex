@@ -1,0 +1,3 @@
+smiley: [😎😃]+
+frowny: [🙁😞]+
+whitespace: [ \r\n\t]+

@@ -1,0 +1,8 @@
+[package]
+name = "rolex"
+version = "0.2.0"
+authors = ["Ryan Hunt <rhunt@eqrion.net>"]
+
+[dependencies]
+regex-syntax = "0.3.3"
+getopts = "*"
